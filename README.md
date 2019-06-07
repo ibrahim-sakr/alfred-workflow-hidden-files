@@ -6,7 +6,7 @@ show/hide the Hidden files
 
 - clone the repo
 - make sure you installed alfred and power pack
-- double click on alfred-workflow-hidden-files.workflow
+- double click on alfred-workflow-hidden-files.alfredworkflow
 
 ## Usage
 
